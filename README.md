@@ -8,5 +8,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siualpinto&repo=generic-website&theme=vision-friendly-dark" />
 </a>
 
-<br />
-<br />
