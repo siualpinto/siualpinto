@@ -1,4 +1,5 @@
-#### Repositories
+<!---
+ #### Repositories
 
 
 <a href="https://github.com/siualpinto/SGIDI">
@@ -9,3 +10,4 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siualpinto)](https://github.com/anuraghazra/github-readme-stats)
+-->
