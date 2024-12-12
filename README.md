@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/siualpinto/SGIDI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siualpinto&repo=sgidi&theme=buefy" />
 </a>
-<a href="https://github.com/siualpinto/generic-websiteo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/siualpinto/generic-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siualpinto&repo=generic-website&theme=buefy" />
 </a>
 
 <br />
