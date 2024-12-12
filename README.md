@@ -7,4 +7,5 @@
 <a href="https://github.com/siualpinto/generic-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siualpinto&langs_count=8&repo=generic-website&theme=algolia" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
